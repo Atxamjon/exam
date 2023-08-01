@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c0416aa.css",
+    "main.js": "/static/js/main.b81cd34f.js",
+    "static/media/bigphone.png": "/static/media/bigphone.4c1a19cdbeb011b67f20.png",
+    "index.html": "/index.html",
+    "main.6c0416aa.css.map": "/static/css/main.6c0416aa.css.map",
+    "main.b81cd34f.js.map": "/static/js/main.b81cd34f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0416aa.css",
+    "static/js/main.b81cd34f.js"
+  ]
+}
